@@ -9,3 +9,4 @@ I don't have plans to revisit this project as of now.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+<img src="clock-ss.png" width='300'>
